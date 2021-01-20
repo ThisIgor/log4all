@@ -1,0 +1,3 @@
+/home/igor/loggertest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/igor/loggertest/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/igor/loggertest/cmake-build-debug/CMakeFiles/loggertest.dir
